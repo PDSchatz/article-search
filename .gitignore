@@ -3,7 +3,7 @@
 
 server/dist
 client/build
-
+.idea
 ### dotenv ###
 .env
 
